@@ -10,16 +10,16 @@ A simple AI chatbot built with Flask, LangChain, and OpenRouter API, capable of 
 - Ready demo use  
 
 ## Project Structure
+smart_assistant
 
-pdf_qa_chatbot/
-├── app.py
-├── static/
-│   ├── style.css
-│   └── script.js
-├── templates/
-│   └── index.html
-├── requirements.txt
-└── README.md
+  -app.py
+  
+  -templates
+  
+    -index.html
+    
+  -requirements.txt
+
 
 ## Installation Instructions
 
@@ -38,6 +38,9 @@ python app.py
 ## Tech Stack
 
 Python 3.11
+
 Flask
+
 OpenRouter API
+
 HTML / CSS / JavaScript
