@@ -9,18 +9,6 @@ A simple AI chatbot built with Flask, LangChain, and OpenRouter API, capable of 
 - Clean and minimal Flask backend  
 - Ready demo use  
 
-## Project Structure
-smart_assistant
-
-  -app.py
-  
-  -templates
-  
-    -index.html
-    
-  -requirements.txt
-
-
 ## Installation Instructions
 
 1. Create a virtual environment
